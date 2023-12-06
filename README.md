@@ -39,4 +39,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor m
 
 ## Licença
 
-Este projeto está sob a [Licença MIT](LICENSE).
+Este projeto está sob a [Licença MIT](LICENSE), o que significa que é livre para uso, modificação e distribuição. Sinta-se à vontade para adaptar este projeto conforme suas necessidades.
+
